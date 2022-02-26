@@ -1,0 +1,10 @@
+# Ignored folders
+__pycache__
+
+# Ignored files (wildcard)
+*.mp4
+.vscode/settings.json
+
+# Ignored files (specific)
+
+
